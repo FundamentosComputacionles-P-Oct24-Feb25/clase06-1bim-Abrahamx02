@@ -1,0 +1,13 @@
+// Generar un programa que presente en pantalla
+//
+
+1.  Inicio
+2.  numero, i[0, n]
+4.  numero <-- 1
+3.  Mientras numero <= 10 Entonces
+4.     Si numero MOD 2 == 0 entonces
+5.        << numero
+6.     Fin Si
+7.     numero <-- numero +1
+8.  Fin Mientras
+9.  Fin

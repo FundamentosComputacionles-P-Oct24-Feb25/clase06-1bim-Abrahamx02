@@ -1,0 +1,17 @@
+// Generar un programa que presente en pantalla
+// o escriba en pantalla los números menores o iguales a 5.
+// Los números deben empezar desde 1
+
+
+1.  Inicio
+2.  numero, i[0, n]
+3.  suma, i[0-n]
+4.  numero <-- 1
+5.  suma <-- 0
+6.  Mientras numero <= 5 Entonces
+7.     suma <-- suma + numero
+8.     // se incrementa el valor de numero (contador)
+9.     numero <-- numero +1
+10.  Fin Mientras
+11.  << suma
+12.  Fin

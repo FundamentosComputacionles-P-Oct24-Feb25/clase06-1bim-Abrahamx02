@@ -1,0 +1,11 @@
+suma <-- 0
+
+suma <-- suma + 10
+
+suma <-- suma + 20
+
+suma <-- suma + 2
+
+suma <-- suma + 20
+
+

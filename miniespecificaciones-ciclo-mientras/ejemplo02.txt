@@ -1,0 +1,15 @@
+// Se desea generar solución que permite imprimir o presentar en 
+// pantalla los número mayores a 5 y menores a 7, 
+// de un rango de números del 1 al 10.
+
+
+1.    Inicio
+2.    n, i[0-n]
+3.    n <-- 1
+4.    Mientras n <= 10 Entonces
+5.        Si n > 5 and n < 7 Entonces
+6.            << n
+7.        Fin Si
+8.        n <-- n + 1  // incremento el contador
+9.    Fin Mientras"
+10.   Fin

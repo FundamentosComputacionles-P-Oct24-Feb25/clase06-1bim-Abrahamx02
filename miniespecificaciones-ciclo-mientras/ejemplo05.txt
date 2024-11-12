@@ -1,0 +1,15 @@
+// Generar un programa que presente en pantalla
+//
+
+1.  Inicio
+2.  numero, i[0, n]
+3.  numero <-- 1
+4.  mensaje, x(200)[{1-9}, /, BS, \n]
+5.  mensaje <-- ""
+6.  Mientras numero <= 5 Entonces
+7.     mensaje <-- mensaje + numero + "/" + 10 + "\n"
+8.     // se incrementa el valor de numero (contador)
+9.     numero <-- numero +1
+10. Fin Mientras
+11. << mensaje
+12. Fin
